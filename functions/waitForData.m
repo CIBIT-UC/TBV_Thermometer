@@ -13,7 +13,7 @@ currentTime = tbvNetInt.tGetCurrentTimePoint;
 expectedTime = tbvNetInt.tGetExpectedNrOfTimePoints;
 
 counter = 0;
-maxcounter = 500;
+maxcounter = 1200;
 
 % Case 1: Previous data in memory
 % Case 2: First run after starting TBV

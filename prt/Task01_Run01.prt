@@ -1,0 +1,63 @@
+
+FileVersion:		2 
+
+ResolutionOfTime:	Volumes 
+
+Experiment:			BrainPlayback-Task01 
+
+BackgroundColor:	0  0  0 
+TextColor:			255  255  255 
+
+TimeCourseColor:	1  1  1 
+TimeCourseThick:	3 
+ReferenceFuncColor:	0   0  80 
+ReferenceFuncThick:	2 
+
+NrOfConditions:		3 
+ 
+Baseline 
+18 
+1	12 
+25	36 
+73	84 
+97	108 
+145	156 
+169	180 
+217	228 
+241	252 
+289	300 
+313	324 
+361	372 
+385	396 
+433	444 
+457	468 
+505	516 
+529	540 
+577	588 
+589	600 
+Color:	170 170 170 
+
+Noise 
+8 
+13	24 
+85	96 
+157	168 
+229	240 
+301	312 
+373	384 
+445	456 
+517	528 
+Color:	0 115 190 
+
+Q1234 
+8 
+37	72 
+109	144 
+181	216 
+253	288 
+325	360 
+397	432 
+469	504 
+541	576 
+Color:	216 83 25 
+

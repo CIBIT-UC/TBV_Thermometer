@@ -19,16 +19,16 @@ addpath('functions')
 addpath('tbvinterface')
 
 % ===== Select IP =================
-% configs.TBV_IP = '192.168.238.189'; % MRI Signal-PC
-configs.TBV_IP = 'localhost'; % Computer with TBV IPk
+configs.TBV_IP = '192.168.238.189'; % MRI Signal-PC
+%configs.TBV_IP = 'localhost'; % Computer with TBV IPk
 
 % ===== Select TR and wait time ===
-TR = 2; %in seconds
+TR = 1; %in seconds
 wait_time = 0.05; %in seconds
 
 % ====== Select PRT path ==========
 prtPath = 'prt';
-prtName = '<>.prt';
+prtName = 'Task01_Run01.prt';
 
 % ===== Select NF parameters =====
 selected_roi = 1;
